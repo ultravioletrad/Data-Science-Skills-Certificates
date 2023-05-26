@@ -1,4 +1,4 @@
 # Data-Science-Skills-Certificates
 <!--START_SECTION:badges-->
-![Fundamentals of Scalable Data Science]((https://www.credly.com/badges/c241064d-4420-4bb5-b278-1f31d4602878/public_url))
+![Fundamentals of Scalable Data Science](![image](https://github.com/ultravioletrad/Data-Science-Skills-Certificates/assets/51322951/cf9fe273-a0c4-4f8d-bc14-17e8ecd9f1e8))
 <!--END_SECTION:badges-->
